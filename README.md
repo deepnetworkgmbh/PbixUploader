@@ -1,16 +1,9 @@
 Power BI Report (pbix) Uploader
 ===================
-----------
-[TOC]
-
-
-----------
 
 # About
 
 **PbixUploader** command line tool creates the given **workspace** (if it doesn't exist before) and uploads the **pbix file** into **POWER BI** account provided. 
-
-----------
 
 # How to use PbixUploader
 
@@ -20,9 +13,6 @@ Power BI Report (pbix) Uploader
  
  https://powerbi.microsoft.com/en-us/documentation/powerbi-developer-register-app/#register-with-the-power-bi-app-registration-tool
  
-
-
-----------
  
 **(2) Run PbixUploader with the required arguments :**
  
@@ -35,10 +25,6 @@ Power BI Report (pbix) Uploader
 *  **Username of Power BI account :** `-u` or `--uname`
 
 *  **Password of Power BI account :** `-p` `--passwd`    
-
-
-----------
-
 
 If everything goes OK, you should see a similar message as below :
 
